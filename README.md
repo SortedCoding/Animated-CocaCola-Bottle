@@ -6,6 +6,19 @@ A responsive product card project featuring an animated Coca-Cola bottle, built 
 
 This repository contains the code for a responsive product card featuring an animated Coca-Cola bottle. The project uses HTML and CSS to create a visually appealing and interactive product card that can be used in e-commerce websites, online marketplaces, or other digital platforms.
 
+# Tutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube](https://youtu.be/FhQkJ65YJDY))
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](logo.png)
+
+![screenshot](img.png)
+
+<img align="right" src="https://github.com/SortedCoding/3D-Earth/blob/main/3DEarth.gif" alt="Coder GIF">
+
+
 # Features
 
 Responsive design that adapts to different screen sizes and devices
