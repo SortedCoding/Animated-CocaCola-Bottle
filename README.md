@@ -16,7 +16,6 @@ Here we have project screenshot :
 
 ![screenshot](img.png)
 
-<img align="right" src="https://github.com/SortedCoding/Animated-CocaCoal-Bottle/blob/main/gif.gif" alt="Coder GIF">
 
 # Features
 
